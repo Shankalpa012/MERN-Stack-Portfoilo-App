@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Shankalpa_db:fddxUnGRy6tNhnU@practise00.asarn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"thisismytoken "
+}
